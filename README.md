@@ -1,4 +1,4 @@
-Usage: `run.py EXAMPLE_IN.pdf EXAMPLE_OUT.pdf`
+Usage: `python run.py EXAMPLE_IN.pdf EXAMPLE_OUT.pdf`
 
 EXAMPLE_OUT.pdf will be a copy of EXAMPLE_IN.pdf with some text replaced.
 
